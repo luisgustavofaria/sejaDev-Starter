@@ -11,7 +11,10 @@ function Pessoa (nome, sobrenome) {
 const pessoaA = Pessoa("José", "Fortes")
 const pessoaB = Pessoa("João", "Teste")
 
+
 console.log({
   pessoaA,
   pessoaB
 })
+
+//teste
